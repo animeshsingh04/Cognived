@@ -1,0 +1,250 @@
+header,h1,h2,h3,h4,h5,h6,p,div,footer,ul,li,nav
+{
+  margin: 0;
+  padding: 0;
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+
+
+
+
+.atrisk {
+  background: #5abfea none repeat scroll 0 0;
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 55%;
+}
+.banner {
+  position: relative;
+}
+.back {
+  background: #341859 none repeat scroll 0 0;
+  height: 250px;
+}
+.text {
+  color: #fff;
+  font-size: 30px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 60%;
+}
+
+
+.age {
+  padding-top: 130px;
+  position: relative;
+}
+.ques_age {
+  left: 15%;
+  position: relative;
+}
+.ques_age > a {
+  color: #666;
+  text-decoration: none;
+  font-family: Trebuchet MS;
+}
+.ques_age > a:hover {
+  color: #000;
+}
+.age_op {
+  padding: 10px 0;
+}
+.age_op > a {
+  color: #666;
+  text-decoration: none;
+  font-family: Trebuchet MS;
+}
+.age_op > a:hover {
+  color: #000;
+}
+.ques_age > p {
+  background: #74cef2 none repeat scroll 0 0;
+  border: medium solid #62b1d1;
+  color: #666;
+  margin: 10px;
+  font-size: 12px;
+  padding: 5px;
+  width: 75%;
+}
+
+
+.gender {
+  padding-top: 130px;
+  position: relative;
+}
+.ques_gender {
+  left: 15%;
+  position: relative;
+}
+.ques_gender > a {
+  color: #666;
+  text-decoration: none;
+  font-family: Trebuchet MS;
+}
+.ques_gender > a:hover {
+  color: #000;
+}
+.gender_op {
+  padding: 10px 0;
+}
+.ques_gender > p {
+  background: #74cef2 none repeat scroll 0 0;
+  border: medium solid #62b1d1;
+  color: #666;
+  margin: 10px;
+  font-size: 12px;
+  padding: 5px;
+  width: 75%;
+}
+
+
+
+
+
+
+.family {
+  padding-top: 130px;
+  position: relative;
+}
+.ques_family {
+  left: 15%;
+  position: relative;
+}
+.ques_family > a {
+  color: #666;
+  text-decoration: none;
+  font-family: Trebuchet MS;
+}
+.ques_family > a:hover {
+  color: #000;
+}
+.family_op {
+  padding: 10px 0;
+}
+.family_op > a {
+  color: #666;
+  text-decoration: none;
+  font-family: Trebuchet MS;
+}
+.family_op > a:hover {
+  color: #000;
+}
+.ques_family > p {
+  background: #74cef2 none repeat scroll 0 0;
+  border: medium solid #62b1d1;
+  color: #666;
+  margin: 10px;
+  font-size: 12px;
+  padding: 5px;
+  width: 75%;
+}
+
+
+
+
+
+
+
+.weight {
+  padding-top: 130px;
+  position: relative;
+}
+.ques_weight {
+  left: 15%;
+  position: relative;
+}
+.ques_weight > a {
+  color: #666;
+  text-decoration: none;
+  font-family: Trebuchet MS;
+}
+.ques_weight > a:hover {
+  color: #000;
+}
+.weight_op {
+  padding: 10px 0;
+}
+.weight_op > a {
+  color: #666;
+  text-decoration: none;
+  font-family: Trebuchet MS;
+}
+.weight_op > a:hover {
+  color: #000;
+}
+.ques_weight > p {
+  background: #74cef2 none repeat scroll 0 0;
+  border: medium solid #62b1d1;
+  color: #666;
+  margin: 10px;
+  font-size: 12px;
+  padding: 5px;
+  width: 75%;
+}
+
+
+
+
+.next {
+  background: #1557d3 none repeat scroll 0 0;
+  border: medium solid #103f96;
+  color: #fff;
+ 
+  position: absolute;
+  right: 15%;
+  text-decoration: none;
+}
+.next:hover {
+  background: #0b2a63 none repeat scroll 0 0;
+}
+.previous {
+  background: #1557d3 none repeat scroll 0 0;
+  border: medium solid #103f96;
+  color: #fff;
+  
+  position: absolute;
+  left: 35%;
+  text-decoration: none;
+}
+.previous:hover {
+  background: #0b2a63 none repeat scroll 0 0;
+}
+select {
+  width: 70%;
+}
+
+
+
+
+
+
+
+
+
